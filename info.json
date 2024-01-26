@@ -1,0 +1,22 @@
+{
+   "name": "zirsd-mod",
+   "title": "Zirsdacation",
+   "version": "1.0.411",
+   "author": "zirsd",
+   "description": "i hate making this you will hate playing this",
+   "factorio_version": "1.1",
+   "dependencies": [
+      "base >= 1.1.74",
+      "bztitanium",
+      "bzlead",
+      "Mini_Trains",
+      "bullet-trails",
+      "helmod",
+      "Rotatable_Equipment",
+      "Flammable_Oils_QUICKFIX_pvp",
+      "bobgreenhouse"
+    ],
+   "homepage": "URL to your mod's homepage or forum post",
+   "contact": "Your contact information (optional)",
+   "license": "Your mod's license (optional)"
+   }
